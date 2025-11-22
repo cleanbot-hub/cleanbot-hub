@@ -58,4 +58,26 @@
 ---
 
 ## 🧱 Architecture (간단 구조도)
+User → Web Frontend(JS)
+→ Firebase Cloud Functions(API)
+→ OpenAI API
+→ Firestore (저장/조회)
+→ Firebase Hosting (배포)
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cleanbot-hub&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleanbot-hub&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 📫 Contact
+- Email: stream_in@naver.com  
+- GitHub: https://github.com/cleanbot-hub
+
+---
+
+### ⭐ 항상 새로운 기능을 만들어보고, 사용자에게 도움이 되는 서비스를 만들고 싶습니다.

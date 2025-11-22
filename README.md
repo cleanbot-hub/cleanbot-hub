@@ -1,6 +1,10 @@
-ㅇㅁㄴㄴㅇㅁㅇㄴㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㄴㅇㄴㅁㅇ
+👋 Hi, I'm Sangjun Lee.
 
-<!---
-cleanbot-hub/cleanbot-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a developer who builds real-world services using:
+- Firebase (Authentication, Firestore, Hosting)
+- Cloud Functions (Node.js)
+- JavaScript Web Frontend
+- OpenAI API Integration
+
+Currently operating my own AI service:  
+🔗 https://freetalk.at  

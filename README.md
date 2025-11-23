@@ -41,19 +41,24 @@
 ## 📌 Featured Project
 
 ### 💬 **Freetalk AI – 통합 AI 도우미**
+### 💬 Freetalk AI – 통합 AI 도우미
 > Firebase 기반 서버리스 아키텍처 + OpenAI API 기반의 실전형 AI 서비스  
 
 🔗 **Live Demo:** https://freetalk.at  
-📁 **Repository:** (연결하면 작성)
+📁 **Repository:** 
 
 **주요 기능**
-- 질문 카테고리 자동 분류  
-- 일일 질문 제한 (일반 10회 / 관리자 무제한)  
-- 파일 업로드 분석  
-- 인기 질문 TOP 5 자동 집계  
-- 관리자 모드  
-- Cloud Functions 기반 백엔드  
-- Firebase Hosting 실서비스 운영
+- 🤖 질문 카테고리 자동 분류 (스마트 토픽 분류)
+- 📊 인기 질문 TOP 5 자동 집계
+- ⏱ 일일 질문 제한 (일반 사용자 10회 / 관리자 무제한)
+- 🖼 이미지 업로드 기반 AI 분석
+- 🗣️ **전체 듣기 기능 (문장 하이라이트 + 자연스러운 읽기)**
+- 🔊 **요약 듣기 기능**
+- ✨ **읽는 문장 실시간 하이라이트**
+- ⏹ **음성 재생 중지 버튼**
+- 👴 시니어 친화형 입력 UI
+- 🔐 관리자 모드 / Cloud Functions 기반 서버 로직
+- ☁ Firebase Hosting 실서비스 운영
 
 ---
 

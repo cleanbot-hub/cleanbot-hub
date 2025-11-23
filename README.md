@@ -45,7 +45,7 @@
 > Firebase 기반 서버리스 아키텍처 + OpenAI API 기반의 실전형 AI 서비스  
 
 🔗 **Live Demo:** https://freetalk.at  
-📁 **Repository:** 
+📁 **Repository:** https://github.com/cleanbot-hub/woori-deploy
 
 **주요 기능**
 - 🤖 질문 카테고리 자동 분류 (스마트 토픽 분류)
